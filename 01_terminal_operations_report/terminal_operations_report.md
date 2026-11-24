@@ -1,8 +1,11 @@
 Terminal Operations Report
 
 Assignment: Universal Terminal & Cloud Computing Operations
+
 Name: Sanjana
+
 Lab: Aanu Tattva Lab
+
 Date: 24 November 2026
 
 1. Introduction
